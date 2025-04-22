@@ -2,66 +2,60 @@
 
 ## Introduction
 
-Hello! I am Sayan, a Computer Science and Data Science student with diverse knowledge of toolsets, platforms, data structures and algorithms. Looking for challenging opportunities to augment my skillset and knack and hunger for learning and to provide innovative solutions to complex problems in the field of computer and data science.
+Hello! I am Sayan, a Data Science and Computer Science student with strong expertise in Linux, DevOps, System Administration, Cloud Computing, Web Development, Data Analysis, and Machine Learning Engineering. I enjoy building scalable, efficient solutions and thrive in collaborative environments.
 
-[Check out my Projects](#projects)
-[Learn more about me](#about-me)
+---
+
+## Experience
+
+### Software Developer, IIT Madras  
+*Sep 2024 – Present*  
+- Developing a Full-Stack Course Management Platform supporting 50+ courses affecting 50,000+ students.
+- Deployed Dockerized Containers with custom CI/CD pipelines.
+- Performed end-to-end unit and integration testing to ensure high availability.
+- **Tech:** Django, Angular, Docker, Tailwind, GCP
+
+### Research Intern & Teaching Assistant, IIT Madras  
+*Jan 2024 – Sep 2024*  
+- Authored a textbook on Linux benefiting 2000+ students.
+- Maintained Linux Virtual Private Server for assignments and exams.
+- Worked under Dr. Gandham Phanikumar and Dr. Sushil Panchpinde.
+- **Tech:** Unix/Linux, GNU coreutils, grep, sed, awk, LaTeX
+
+---
 
 ## Projects
 
-### Bloglite - Microblogging website
-- **Description**: Full Stack Application for blogging and social interaction between users with background jobs, triggered async jobs, server side events, and exporting of data.
-- **Technologies Used**: Flask, SQLAlchemy, Flask-Migrate, JWT, Celery, Redis, Flask-SSE, ChartJS, Vue3, Vite, Axios, SASS, Typescript
-- [Source Code](https://github.com/sayan01/bloglitev2)
-
-### Social Content Sharing Platform (scsp) - Social Media Website moderated by the community
-- **Description**: Social Media Platform for the people.
-- **Technologies Used**: ASP.NET, C#, Razor Pages, SQLite3, MVC, ORM, Migrations, nginx, Linux
-- [Source Code](https://github.com/sayan01/scsp)
-
-### Present - create powerful yet simple presentations from plain-text source files
-- **Description**: Fully fledged text to pdf interpreter for creating presentation slideshows from a VCS-friendly text source file.
-- **Technologies Used**: C, libHaru
+### Present – Fast Text to PDF Presentation Generator
+- **Description:** Developed a blazingly fast, fully fledged text to PDF interpreter for creating presentation slideshows from a VCS-friendly text source file. 300 times faster than Pandoc.
+- **Tech:** C, libHaru
 - [Source Code](https://github.com/sayan01/present)
 
-### Large File Splitter
-- **Description**: Android Application to split and rejoin big files into chunks for transfer through messaging apps.
-- **Technologies Used**: Java (Android)
-- [Download APK](https://github.com/sayan01/wlfs/releases/latest/download/LFS.apk)
-- [Source Code](https://github.com/sayan01/wlfs)
+### Social Content Sharing Platform (scsp)
+- **Description:** Implemented community-driven content ranking algorithm using hot-rank and Wilson score confidence sort algorithms. Deployed full stack application on VPS with Dotnet kestrel web server and nginx reverse proxy.
+- **Tech:** ASP.NET, C#, Razor Pages, SQLite3, MVC, ORM, nginx, Linux
+- [Source Code](https://github.com/sayan01/scsp)
 
-### Linux Productivity Tools and Automation Scripts
-- **Description**: Various scripts and tools to improve productivity and automate workflow in Linux.
-- **Technologies Used**: Shellscript(Bash), Python, C
+### Event Management Application
+- **Description:** Designed and developed a web application for event management and student details. Developed an attendance capturing mobile app, reducing logistic time by 10x. Automated ID card generation and printing for 1000+ participants and volunteers.
+- **Tech:** Flutter, Bash, HTML, CSS
+
+### Open Source Utilities & Linux Productivity Tools
+- **Description:** Open source repository of scripts for minimal GNU/Linux environments with 100+ stars. Includes tools for YouTube web scraping, meme generation, image search, and more.
+- **Tech:** Bash, Zsh, Python, C
 - [Source Code](https://github.com/sayan01/scripts)
 
-### Medicine Database and Automated Prescription Printing (MD-APP)
-- **Description**: Windows Form Application for Prescription Composing and Printing for Windows.
-- **Technologies Used**: VB.NET (Windows), SQLite3
-- [Download Executable](https://github.com/sayan01/md-app/releases/download/v1.0/md-app.zip)
-- [Source Code](https://github.com/sayan01/md-app)
+---
 
-### AsciiCam
-- **Description**: A terminal-based ascii camera.
-- **Technologies Used**: Python (OpenCV)
-- [Source Code](https://github.com/sayan01/asciicam)
+## Research & Publications
 
-### studb
-- **Description**: A Queriable Database of all IITMPOD Students.
-- **Technologies Used**: HTML, CSS, JS
-- [Visit Website](https://sayan01.github.io/studb/)
-- [Source Code](https://github.com/sayan01/studb)
+- **["A Hand-Gesture Recognition System Using Image Processing to Translate Indian Sign Language Alphabets to Text"](https://www.researchgate.net/publication/372447361_A_Hand-Gesture_Recognition_System_Using_Image_Processing_to_Translate_Indian_Sign_Language_Alphabets_to_Text)**, Indian Journal of Natural Sciences, Feb 2023
 
-### EmoText
-- **Description**: Website that converts normal Latin text to Regional Indicator Emojis.
-- **Technologies Used**: HTML, CSS, JS
-- [Visit Website](emotext/index.html)
-- [Source Code](https://github.com/sayan01/Website/tree/master/port/emotext/)
+- **[A Data-Driven Strategy to Enhance Market Share for a Small-Scale Pharmaceutical Wholesaler](https://drive.google.com/drive/folders/1WDMEQ-PwXZpuka_5T6bwXOu5hnjc9WYn?usp=sharing)** (Business Data Management)
 
-### Javascript Games and Simulations
-- **Description**: List of web Games and Simulations.
-- **Technologies Used**: HTML, CSS, JS
-- [View List](https://sayn.work/port/games/)
+- **[Failing Forward: Finding Strength in Setbacks](https://www.aswn.me/research/failing-forward-spg)** (Case Study on Historic Failures)
+
+---
 
 ## About Me
 
@@ -69,97 +63,38 @@ I am a data science student learning about the fascinating world of AI and ML. I
 
 ### Skills
 
-- Web Development
-  - Frontend: HTML, CSS, JS, TS, Vue3
-  - Backend: Flask, NodeJS, Express
-  - Databases: SQL, NoSQL (Mongodb, Firestore)
-- Scripting and Automation: Bash (shellscript), Python, Awk, Sed
-- Data Analysis and Visualization
-- Algorithm Design
+- **Web Development:** HTML, CSS, JS, TS, Vue3, Angular, Node.js, Flask, ASP.NET
+- **DevOps & Cloud:** Docker, GCP, CI/CD pipelines
+- **Scripting & Automation:** Bash, Python, Zsh
+- **Data Analysis & ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Pytorch
+- **System Administration:** Linux, Shell scripting, Cron jobs
 
 ### Languages and Frameworks
 
-#### Python
-- **Libraries/Modules**:
-  - Numpy, Pandas, Matplotlib
-  - Scipy, Scikit-learn
-  - Pytorch
-  - Flask
+- **Python:** Numpy, Pandas, Matplotlib, Scipy, Scikit-learn, Pytorch, Flask
+- **Bash/Zsh:** Scripting and automation
+- **Java:** OOP, Stream API
+- **C/C++:** Data structures and algorithms
+- **Typescript/Javascript:** Node.js, Express.js, Vue3, Angular, Vite
 
-#### Bash/Zsh
-- Scripting and automation
+---
 
-#### Java
-- Used extensively for 8+ years in school and college.
-- OOP
-- Stream API
-
-#### C/C++
-- Proficient in data structures and algorithms
-
-#### Typescript/Javascript
-- **Frameworks**:
-  - Node.js
-  - Express.js
-  - Vue3.js
-  - Vite
- 
 ## Education
 
-### Indian Institute of Technology Madras (2021-2025)
-- **Degree**: BS Data Science and Applications
-- **CGPA**: 9
-- **Courses Completed**:
-  - Web Development (+ projects)
-  - Python
-  - Java and Object-Oriented Programming
-  - Linux and System Administration
-  - Data Structures and Algorithms
-  - DBMS
-  - Business Data Management (+capstone project)
-  - Business Analytics
-  - Tools in Data Science
-- **Courses Yet to Be Taken**:
-  - Machine Learning (MLF, MLT, MLP) (+project)
-  - Artificial Intelligence and Deep Learning
-  - Market Research
-  - Big Data
-  - Data Visualization
-  - Advanced Algorithms
-  - Bioinformatics
+### Indian Institute of Technology Madras (2021–2025)
+- **Degree:** BS Data Science and Applications
+- **CGPA:** 9.3
 
-### Kristu Jayanti College (2020-2023)
-- **Degree**: Computer Science
+### Bengaluru North University (2020–2023)
+- **Degree:** Bachelors in Computer Applications
+- **CGPA:** 8.5
 
-### Vivekananda Mission School (2018-2020)
-- **High School**: Kolkata, India
-- **Percentage**:
-  - Class X: 91.16%
-  - Class XII: 87.40%
-- **Subjects**:
-  - Computer Science (Java)
-  - Physics
-  - Chemistry
-  - Maths
-  - English
- 
-## Competitions
 
-- **Winner** - [Hackiest Hack - HackathonsUK - R.U. Hacking 2021 - United Kingdom](https://drive.google.com/file/d/1OCgoMWTequSfzQmaRm9Ic7rEEc9mtVge/view?usp=share_link)
-- **Winner** - [Coding Event, IT Quiz Event - Syntaxia '23 (Intercollegiate IT Fest) - St. Joseph's University](https://drive.google.com/drive/folders/1rDlLHkpfrjTYmpMorL1B3SZZySYZGcQd?usp=share_link)
-- **Winner** - IT Quiz Event - Cul-Ah '23 (Intercollegiate Cultural and Technical Fest) - Mount Carmel College
-- **Winner** - [Coding Event, IT Quiz Event, Web Design Event - Phoenix 2.0 2k21 (Intercollegiate IT Fest) - Presidency College](https://drive.google.com/drive/folders/1IBOnVyLJXL0A_8b_BR6ZOlFWFfR7edZb?usp=sharing)
-- **Second** - [Reverse Coding - Code Igniter (Intercollegiate IT Fest) - GSSS Institute of Engineering and Technology for Women](https://drive.google.com/drive/folders/1HyIXDrOTzQs_EXx-PxVOhvcmX4ymTw2b?usp=sharing)
-- **Star of Synchronize 2k21** - [Bagged most number of awards in Intra-Collegiate Tech Fest - Synchronize 2k21 - Kristu Jayanti College](https://drive.google.com/drive/folders/1Q-JN8v40CxFy5eJneB1HljJOP93Egg3d?usp=sharing)
-- **Second** - [ANOVA 2.0 2021 - AIMIT - St Aloysius Institute of Management and IT](https://drive.google.com/drive/folders/1uKJJaiMg4Zucm8NGXYeOcxGf25VV5LBT?usp=sharing)
-- **Winner** - [Codezilla (Coding and Debugging Event) - Techforte 2020 (Intercollegiate IT Fest) - Mount Carmel College](https://drive.google.com/drive/folders/1jJ0NVMtymbJYFlJy9c0ckD34_qfGj7Vt?usp=sharing)
-- **Star of Synchronize 2k20** - [Bagged most number of awards in Intra-Collegiate Tech Fest - Synchronize 2k20 - Kristu Jayanti College](https://drive.google.com/drive/folders/18-cZNzD4foBACGzqp6snlsAfGvFUjd2C?usp=sharing)
-- **Winner** - [Acumen 2018 - Vivekananda Mission School](https://drive.google.com/file/d/1Fo7YnKkdxEIOS4g1454m6EB8BU6yqG3D/view?usp=share_link)
-- **Semi-Finalist** - [Young Innovators' Program 2017 - IIT Kharagpur](https://drive.google.com/file/d/12g8r1z0lDfLrWZXQswcCHcJOeiOwOZVd/view?usp=sharing)
+---
 
 ## Get in Touch
 
-Contact me to discuss projects, ideas, or life in general!
+Contact me to discuss projects, ideas, or collaborations!
 
 - **Email:** [sgic2001@gmail.com](mailto:sgic2001@gmail.com)
 - **Social:**
@@ -167,4 +102,3 @@ Contact me to discuss projects, ideas, or life in general!
   - [LinkedIn](http://linkedin.sayn.work)
   - [Freelancer](http://freelancer.sayn.work)
   - [Fiverr](http://fiverr.sayn.work)
-
